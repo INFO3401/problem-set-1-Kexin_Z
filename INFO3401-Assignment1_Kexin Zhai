@@ -1,0 +1,38 @@
+Assignment 1
+Kexin Zhai
+INFO 3401
+
+Monday
+1. Yes, I have completed the survey.
+
+Wednesday
+1. Partner - Jack Sandberg
+    #1.Facebook - Jack is a bilingual. He can speak English and Franch.
+    #2.direct-interview - Jack haven't done any internship before.
+    #3.Athletic.net - Jack had a 28.2 seasonal record of Mens Varsity 200 Meters.
+    #4.MileSplit.com - Jack plays Discus and Shot Put.
+    #5.GTCYS News Notes September 2007 - Jack played violin in Greater Twin Cities Youth Symphonies.
+
+2. Three scenarios
+#1.Tracking the changes and undo any mistakes when trying new thing.
+    I was writing my coding project on my laptop. I wanted to code a new feature in my project but I was not sure if the code I was going to use would work. I deceided to create a new file, copy and paste my current project into that new file. It didn't work. Then I tried to debug it and created a new file again and wrote new code. I start to feel stressful because of the workload and asked Professor for suggestion. Professor told me I could use version control like Git to do my project. I found this functional algorithms could track my code and show all the steps I made in my project. I wanted to create a new feature. I wrote my code and the code didn't work again. I went back and tracked my code. I noticed there was a mistake and I undoed the mistake. Version control makes doing project more convenient.
+    
+#2.Collabrating project. Keep all the change uptodate.
+    We have done a group coding project several weeks ago. At that time, we needed to get togather to code and put our code togather to run. It took a lot of time because the variable we use might not the same. Sometimes, we even didn't know other groupmates had already coded a feature and we did repeated work. Last week's group coding project, we started to use version control to do our project. We could share our project with all group memembers. Since version control allows us to keep our code up to date, we could avoid doing repeated work.
+    
+#3.build off of other people's systems.
+    When we don't know how to code a feature or function, we would try to search related concept on Google. But we might not know how to apply this concept. Then we deceide to use version control. By using this, we could access other people's code. We could check how the code changes and know which change affects the result of the project. We could build off of other people's systems and update the code written by ourselves.
+    
+3.https://github.com/solaamy/INFO3401Assign-1-3
+
+4. When Jack Sandberg, Anastasiya Zhukova, and I made a change to Jack's file at the same time and committed the change to the repo at the same time, we found we could not push the change to the repository successfully. It said "Merge Conflicts Found" and it showed warning sign on my Github destop. I closed the warning window and tried to pull it back to my laptop. This time I committed the change by myself and pushed the change again to the repository. 
+
+5. 
+What strategies might you use when architecting and managing a collaborative project that may help you make the best use of version control? Name at least three and discuss why you think they'll be helpful.
+#1. Use informative commit messages
+When we use informative commit messages, each change we made would be clear enough to read. It would be effient to find out a potential mistake we might make and undo it. Also, if it is a group project, informative commit messages would allow other people to understand what the change we've made which makes group collaboration smoothly.
+#2. Commit frequently
+When we are doing the project, each part would have different features and meaning. If we commit frequently, the change we made would be more specific. When we try to redo the mistaking part, we would not redo other parts which are not committed togather.
+#3. Make sure to always push after committing major changes
+Pushing after committing major changes allows us to update our changes on local computer to remote repository. If we are doing a collaborative project, it is very important because other people could check the change we've made and would not have conflict on project. 
+    
